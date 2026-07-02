@@ -1,0 +1,26 @@
+📊 **SAP Supplier Evaluation: Driving Smarter Procurement Decisions**
+
+Supplier Evaluation in SAP S/4HANA helps organizations assess and monitor supplier performance using data from Materials Management (MM), Logistics Information System (LIS - S013), and Quality Management (QM).
+
+🔹 **Key Evaluation Criteria:**
+• Price 💰
+• Quality ⭐
+• Delivery 🚚
+• Service 🤝
+• Invoice Verification 📄
+• Sustainability 🌱
+
+🔹 **How it works:**
+✅ Suppliers are scored using automatic, semiautomatic, and manual criteria.
+✅ Weighting factors prioritize what's most important to the business.
+✅ Performance is evaluated through metrics such as price competitiveness, quality inspections, on-time delivery, quantity reliability, and audit results.
+✅ Supplier evaluations support better sourcing decisions, supplier monitoring, and continuous improvement initiatives.
+
+🔹 **Key SAP Transactions:**
+• ME61 – Maintain Supplier Evaluation
+• ME63 – Automatic Re-evaluation
+• ME6F – Print Evaluation Sheet
+
+A well-designed supplier evaluation process enables organizations to make data-driven procurement decisions, strengthen supplier relationships, reduce risks, and optimize supply chain performance.
+
+#SAP #SAPS4HANA #SAPMM #Procurement #SupplierManagement #SupplyChain #Logistics #ERP #Manufacturing #SAPConsultant
