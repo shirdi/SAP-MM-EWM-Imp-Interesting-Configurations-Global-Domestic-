@@ -1,1 +1,18 @@
+SAP MM ↔ MES Integration Using #IDocs: A Step-by-Step Guide for SAP MM Consultants. Also, added a graph on how we can optimize #AI along with the listed steps.
 
+One of the most common integration scenarios in manufacturing is connecting SAP S/4HANA MM with a Manufacturing Execution System (MES). While SAP MM manages procurement, inventory, batch management, and material movements, the MES handles real-time shop floor execution. #IDocs (Intermediate Documents) act as the bridge between these two systems, enabling seamless data exchange.
+
+In the infographic, I break down the complete integration lifecycle from an SAP MM Functional Consultant's perspective:
+✅ Gathering business requirements
+✅ Performing Fit-Gap Analysis
+✅ Identifying data exchanged between SAP MM and MES
+✅ Selecting the right IDoc types (ORDERS05, MATMAS, MBGMCR, etc.)
+✅ Configuring partner profiles, ports, and distribution models
+✅ Mapping SAP MM fields to MES
+✅ End-to-end testing and UAT
+✅ Monitoring IDocs (WE02, WE05, BD87)
+✅ Go-Live, Hypercare, and Production Support
+
+The guide also includes a real-world manufacturing example showing how a production order flows from SAP MM to MES and how confirmations, goods movements, and inventory updates return to SAP automatically.
+
+Whether you're preparing for an SAP MM interview, working on an S/4HANA implementation, or looking to strengthen your knowledge of manufacturing integration, I hope this visual guide serves as a practical reference.
